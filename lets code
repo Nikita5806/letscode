@@ -1,8 +1,0 @@
-const start = 10;
-const end = 20;
-
-for (var i = start; i <= end; i++) {
-    if (i%2 === 0){
-        console.log(i);
-    }
-}
